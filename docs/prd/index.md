@@ -1,0 +1,25 @@
+# Product Requirements Document (PRD): QR Code Time-Off System
+
+## Table of Contents
+
+- [Product Requirements Document (PRD): QR Code Time-Off System](#table-of-contents)
+  - [Goals and Background Context](./goals-and-background-context.md)
+    - [Goals](./goals-and-background-context.md#goals)
+    - [Background Context](./goals-and-background-context.md#background-context)
+    - [Change Log](./goals-and-background-context.md#change-log)
+  - [Requirements](./requirements.md)
+    - [Functional Requirements](./requirements.md#functional-requirements)
+    - [Non-Functional Requirements](./requirements.md#non-functional-requirements)
+  - [User Interface Design Goals](./user-interface-design-goals.md)
+    - [Overall UX Vision](./user-interface-design-goals.md#overall-ux-vision)
+    - [Core Screens and Views](./user-interface-design-goals.md#core-screens-and-views)
+    - [Branding](./user-interface-design-goals.md#branding)
+  - [Technical Assumptions](./technical-assumptions.md)
+    - [Repository Structure: Monorepo](./technical-assumptions.md#repository-structure-monorepo)
+    - [Service Architecture](./technical-assumptions.md#service-architecture)
+    - [Testing Requirements: Unit + Integration](./technical-assumptions.md#testing-requirements-unit-integration)
+    - [Additional Technical Assumptions](./technical-assumptions.md#additional-technical-assumptions)
+  - [Epic and Story Structure](./epic-and-story-structure.md)
+    - [Epic 1: MVP Launch & Core Workflow Validation](./epic-and-story-structure.md#epic-1-mvp-launch-core-workflow-validation)
+    - [Epic 2: Custom Application Foundation & Management](./epic-and-story-structure.md#epic-2-custom-application-foundation-management)
+    - [Epic 3: Employee Portal & Advanced Availability Module](./epic-and-story-structure.md#epic-3-employee-portal-advanced-availability-module)
